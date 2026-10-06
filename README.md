@@ -35,7 +35,7 @@ The ZIP must contain a single `nlma_token_refresh/` directory with `metadata.txt
 Use the plugin menu to add either zoning layer, navigate to the relevant area, and let the plugin check connections periodically. Use the manual update action when needed.
 
 - [版本更新 / Changelog](CHANGELOG.md)
-- [原始碼 / Source code](https://github.com/LiXing183/NLMA-Map-Auto-Refresh)
+- [原始碼 / Source code](https://github.com/LiXing183/NLMA-land-use-map-connections)
 
 ## 資料來源與限制 / Data and limitations
 
@@ -51,7 +51,7 @@ Data source: **內政部國土管理署 / National Land Management Agency, Taiwa
 
 ## 問題回報 / Issues
 
-Please use [GitHub Issues](https://github.com/LiXing183/NLMA-Map-Auto-Refresh/issues). Include plugin/QGIS versions, operating system, steps to reproduce, the affected layer, and the relevant error message. Remove tokens and personal information from screenshots, project files, or diagnostic files before submitting.
+Please use [GitHub Issues](https://github.com/LiXing183/NLMA-land-use-map-connections/issues). Include plugin/QGIS versions, operating system, steps to reproduce, the affected layer, and the relevant error message. Remove tokens and personal information from screenshots, project files, or diagnostic files before submitting.
 
 ## 授權 / License
 
