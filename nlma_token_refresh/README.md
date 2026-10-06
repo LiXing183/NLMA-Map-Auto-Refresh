@@ -28,22 +28,6 @@
 
 Copyright (C) 2026 Xing Li
 
-本外掛採 GNU General Public License 第 2 版或任何後續版本（GPL-2.0-or-later），完整第 2 版條款見 [LICENSE](LICENSE)。本軟體不提供任何擔保；圖資本身不包含於此外掛授權中。
+本外掛採 GNU General Public License 第 2 版或任何後續版本（GPL-2.0-or-later），完整第 2 版條款見 LICENSE。本軟體不提供任何擔保；圖資本身不包含於此外掛授權中。
 
 聯絡信箱：li.xing.183.github@icloud.com
-
-## 原始碼與問題回報
-
-- 原始碼：https://github.com/LiXing183/NLMA-Map-Auto-Refresh
-- 問題回報：https://github.com/LiXing183/NLMA-Map-Auto-Refresh/issues
-- 更新紀錄：[CHANGELOG.md](CHANGELOG.md)
-
-## 開發與測試
-
-原始碼位於 `nlma_token_refresh/`。已安裝 QGIS 的 Linux 環境可執行：
-
-```sh
-QT_QPA_PLATFORM=offscreen PYTHONPATH=. /usr/bin/python3 -m unittest discover -s tests -v
-```
-
-QGIS 3.40.6 的 7 項自動測試通過；官方圖台網路連線不包含在這些自動測試中。QGIS 4.2.3 可用性由使用者回報。版本宣告範圍不代表每個版本皆已測試。

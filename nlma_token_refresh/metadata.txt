@@ -1,0 +1,16 @@
+[general]
+name=NLMA都市計畫/國家公園使用分區圖連線
+description=加入都市計畫及國家公園使用分區，自動更新兩種 XYZ 圖層連線
+version=1.2.2
+icon=logoico.png
+qgisMinimumVersion=3.24
+qgisMaximumVersion=4.2.99
+author=Xing Li
+email=li.xing.183.github@icloud.com
+experimental=True
+category=Web
+about=加入國土管理署都市計畫與國家公園使用分區 XYZ 圖層，每 5 分鐘檢查連線，並在需要時更新連線。服務失敗時保留原圖層。
+repository=https://github.com/LiXing183/NLMA-Map-Auto-Refresh
+tracker=https://github.com/LiXing183/NLMA-Map-Auto-Refresh/issues
+homepage=https://github.com/LiXing183/NLMA-Map-Auto-Refresh
+changelog=1.2.2：更換圖示、名稱與作者；補齊授權及公開資訊；改善專案切換、授權失效與圖磚驗證；QGIS 4.2.3 使用者回報可用。
