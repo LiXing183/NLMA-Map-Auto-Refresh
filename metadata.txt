@@ -1,0 +1,16 @@
+[general]
+name=NLMA都市計畫/國家公園使用分區圖連線
+description=Connect to Taiwan NLMA urban planning and national park land-use zoning XYZ maps and automatically refresh layer connections.
+version=1.2.2
+icon=logoico.png
+qgisMinimumVersion=3.24
+qgisMaximumVersion=4.2.99
+author=Xing Li
+email=li.xing.183.github@icloud.com
+experimental=False
+category=Web
+about=Adds Taiwan National Land Management Agency urban planning and national park land-use zoning XYZ layers. Checks connections every five minutes and refreshes service tokens when needed. Existing layers are retained when service validation fails. Internet access is required. This is an independently developed plugin, not an official NLMA product.
+repository=https://github.com/LiXing183/NLMA-land-use-map-connections
+tracker=https://github.com/LiXing183/NLMA-land-use-map-connections/issues
+homepage=https://github.com/LiXing183/NLMA-land-use-map-connections
+changelog=1.2.2：更換圖示、名稱與作者；補齊授權及公開資訊；改善專案切換、授權失效與圖磚驗證；QGIS 4.2.3 使用者回報可用。

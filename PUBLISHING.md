@@ -6,6 +6,6 @@
 4. 選擇 Upload a plugin，上傳 NLMA_Map_Auto_Refresh_v1.2.2.zip。若此套件已存在於官方平台，依平台指引上傳新版本。
 5. 處理平台驗證訊息並等待審核；已提交不代表已核准或公開。
 
-版本維持 experimental=True。請勿在 GitHub 新增另一套不同授權；本次採 GPL-2.0-or-later，根目錄與外掛目錄皆附 LICENSE。
+版本設定 experimental=False；此標記不代表已通過官方審核。請勿在 GitHub 新增另一套不同授權；本次採 GPL-2.0-or-later，根目錄與外掛目錄皆附 LICENSE。
 
 目前尚未推送 GitHub、上傳官方平台或完成平台要求的即時核對。
